@@ -1,0 +1,8 @@
+name: Relatar Defeito (Bug)
+description: Relatar um erro ou comportamento inesperado
+body:
+  - type: textarea
+    id: passos
+    attributes:
+      label: Passos para reproduzir
+      description: Como o bug pode ser reproduzido?

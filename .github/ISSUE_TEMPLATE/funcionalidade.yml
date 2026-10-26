@@ -1,0 +1,12 @@
+name: Nova Funcionalidade
+description: Sugerir uma nova funcionalidade para o ArteSul Marketplace
+body:
+  - type: input
+    id: titulo
+    attributes:
+      label: Título da Funcionalidade
+  - type: textarea
+    id: descricao
+    attributes:
+      label: Descrição
+      description: O que você gostaria que acontecesse?
