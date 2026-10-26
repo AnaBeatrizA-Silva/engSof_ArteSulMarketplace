@@ -1,0 +1,9 @@
+{
+  "name": "artesul-web",
+  "version": "1.0.0",
+  "description": "Frontend do ArteSul Marketplace",
+  "scripts": {
+    "start": "echo \"Frontend Web ArteSul iniciado\"",
+    "test": "node --test"
+  }
+}

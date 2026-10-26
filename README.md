@@ -2,7 +2,7 @@
 
 Plataforma que conecta artesãos e pequenos produtores do Sul do Brasil a consumidores de todo o país.
 
-## Equipe (Squad ArteSul)
+## Equipe 
 - **Engenheira DevOps / GCS e Gerente de Projeto / PO:** Ana Beatriz Adriano da Silva
 
 ## Tecnologias e Stack

@@ -1,0 +1,13 @@
+{
+  "name": "artesul-api",
+  "version": "1.0.0",
+  "description": "API do ArteSul Marketplace",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
